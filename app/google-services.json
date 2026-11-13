@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641654664100",
+    "firebase_url": "https://taskapp-3d1b5-default-rtdb.firebaseio.com",
+    "project_id": "taskapp-3d1b5",
+    "storage_bucket": "taskapp-3d1b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641654664100:android:36ca387b64b81132b2ef31",
+        "android_client_info": {
+          "package_name": "com.pablo.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjVpMCnShgBH0zzuBG5oAXIQIomKkEwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
